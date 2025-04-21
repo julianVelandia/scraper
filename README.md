@@ -56,7 +56,7 @@ Se intentó obtener los datos accediendo directamente a endpoints internos. En o
 ### 2. **Segundo intento: interceptar respuestas del frontend**
 Se intentó identificar las llamadas AJAX del sitio usando herramientas como las DevTools. Sin embargo, las URLs no eran públicas o estaban firmadas temporalmente, por lo que tampoco fue viable
 
-![image](https://github.com/user-attachments/assets/73754d2d-e313-40ee-81fa-7046f210ef65)
+![image](https://github.com/user-attachments/assets/41bd65af-871c-4285-82da-0f97b67fda3e)
 
 ### 3. **Solución implementada: scraping con renderizado y visión artificial**
 Se optó por usar `undetected-chromedriver` junto con Selenium para abrir la página como un navegador humano. Sin embargo, incluso con `headless=False` y navegadores configurados, Zillow detectaba automatización y presentaba un CAPTCHA personalizado.
@@ -66,7 +66,7 @@ Este CAPTCHA consistía en:
 - El tiempo de presión debía ser **exacto**. Si se presionaba por poco tiempo, mucho tiempo o se soltaba en el momento incorrecto, se bloqueaba el acceso.
 - En algunos casos, el CAPTCHA se repetía varias veces si no se resolvía a tiempo (en menos de 30 segundos).
 
-![image](https://github.com/user-attachments/assets/4a31954e-2864-418d-9cab-86e5bb8e1e34)
+![image](https://github.com/user-attachments/assets/114dccd1-56d9-4df4-a4d8-407ac968f667)
 
 Se usaron técnicas de visión por computadora (`opencv`) y simulación humana (`pyautogui`) para:
 - Detectar el botón en pantalla (por imagen).
