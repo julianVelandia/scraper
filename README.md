@@ -12,10 +12,9 @@ El scraper debe poder pausarse y retomarse sin pérdida de progreso.
 
 ## Demo
 
-<video width="600" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-  Tu navegador no soporta video HTML5.
-</video>
+
+[![Ver demo en YouTube](https://img.youtube.com/vi/pZ78jvGnTcA/0.jpg)](https://youtu.be/pZ78jvGnTcA)
+
 
 ---
 

@@ -1,0 +1,1870 @@
+[
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "378 Calle Eloy Morales, San Juan, PR 00923",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "0"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "378 Calle Eloy Morales",
+      "addressLocality": "San Juan",
+      "addressRegion": "PR",
+      "postalCode": "00923"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.399532,
+      "longitude": -66.03919
+    },
+    "url": "https://www.zillow.com/homedetails/378-Calle-Eloy-Morales-San-Juan-PR-00923/449953697_zpid/",
+    "url_origen": "https://www.zillow.com/pr/1_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "415 Cll Jerez, San Juan, PR 00923",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "4,680"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "415 Cll Jerez",
+      "addressLocality": "San Juan",
+      "addressRegion": "PR",
+      "postalCode": "00923"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.4208,
+      "longitude": -66.0329
+    },
+    "url": "https://www.zillow.com/homedetails/415-Cll-Jerez-San-Juan-PR-00923/449634908_zpid/",
+    "url_origen": "https://www.zillow.com/pr/1_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "4230 Carr #109, Anasco, PR 00610",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,600"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "4230 Carr #109",
+      "addressLocality": "Anasco",
+      "addressRegion": "PR",
+      "postalCode": "00610"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.31537,
+      "longitude": -67.12927
+    },
+    "url": "https://www.zillow.com/homedetails/4230-Carr-109-Anasco-PR-00610/448267181_zpid/",
+    "url_origen": "https://www.zillow.com/pr/1_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "815 Calle 4 #107, San Juan, PR 00924",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "993"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "815 Calle 4 #107",
+      "addressLocality": "San Juan",
+      "addressRegion": "PR",
+      "postalCode": "00924"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.397919,
+      "longitude": -66.01305
+    },
+    "url": "https://www.zillow.com/homedetails/815-Calle-4-107-San-Juan-PR-00924/448295339_zpid/",
+    "url_origen": "https://www.zillow.com/pr/1_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "So103 West So #103, Loiza, PR 00772",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,332"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "So103 West So #103",
+      "addressLocality": "Loiza",
+      "addressRegion": "PR",
+      "postalCode": "00772"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.430922,
+      "longitude": -65.845695
+    },
+    "url": "https://www.zillow.com/homedetails/So103-West-So-103-Loiza-PR-00772/450126315_zpid/",
+    "url_origen": "https://www.zillow.com/pr/1_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "0 Condominio Portales Ave #218, San Juan, PR 00924",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,118"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "0 Condominio Portales Ave #218",
+      "addressLocality": "San Juan",
+      "addressRegion": "PR",
+      "postalCode": "00924"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.391954,
+      "longitude": -66.006454
+    },
+    "url": "https://www.zillow.com/homedetails/0-Condominio-Portales-Ave-218-San-Juan-PR-00924/450013548_zpid/",
+    "url_origen": "https://www.zillow.com/pr/1_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "24 Ridge Top Dr, Humacao, PR 00791",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "0"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "24 Ridge Top Dr",
+      "addressLocality": "Humacao",
+      "addressRegion": "PR",
+      "postalCode": "00791"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.072277,
+      "longitude": -65.80144
+    },
+    "url": "https://www.zillow.com/homedetails/24-Ridge-Top-Dr-Humacao-PR-00791/450115475_zpid/",
+    "url_origen": "https://www.zillow.com/pr/1_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "3 Portal Del Est #344, Carolina, PR 00987",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,200"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "3 Portal Del Est #344",
+      "addressLocality": "Carolina",
+      "addressRegion": "PR",
+      "postalCode": "00987"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.369549,
+      "longitude": -65.980415
+    },
+    "url": "https://www.zillow.com/homedetails/3-Portal-Del-Est-344-Carolina-PR-00987/448288550_zpid/",
+    "url_origen": "https://www.zillow.com/pr/1_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "Kmhm 2.8 Bo Llanos Costa Carr 303, Cabo Rojo, PR 00623",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "0"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "Kmhm 2.8 Bo Llanos Costa Carr 303",
+      "addressLocality": "Cabo Rojo",
+      "addressRegion": "PR",
+      "postalCode": "00623"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 17.98268,
+      "longitude": -67.13818
+    },
+    "url": "https://www.zillow.com/homedetails/Kmhm-2-8-Bo-Llanos-Costa-Carr-303-Cabo-Rojo-PR-00623/443887166_zpid/",
+    "url_origen": "https://www.zillow.com/pr/1_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "619 Baleares, San Juan, PR 00920",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,800"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "619 Baleares",
+      "addressLocality": "San Juan",
+      "addressRegion": "PR",
+      "postalCode": "00920"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.408615,
+      "longitude": -66.07914
+    },
+    "url_origen": "https://www.zillow.com/pr/2_p/",
+    "url": "https://www.zillow.com/homedetails/619-Baleares-San-Juan-PR-00920/400821535_zpid/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "3 Villas De Sotomayor #F, Aguada, PR 00602",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "2,003"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "3 Villas De Sotomayor #F",
+      "addressLocality": "Aguada",
+      "addressRegion": "PR",
+      "postalCode": "00602"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.372667,
+      "longitude": -67.18594
+    },
+    "url_origen": "https://www.zillow.com/pr/2_p/",
+    "url": "https://www.zillow.com/homedetails/3-Villas-De-Sotomayor-F-Aguada-PR-00602/449951643_zpid/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "30 Calle Solimar, Mayaguez, PR 00680",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,207"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "30 Calle Solimar",
+      "addressLocality": "Mayaguez",
+      "addressRegion": "PR",
+      "postalCode": "00680"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.176804,
+      "longitude": -67.086685
+    },
+    "url_origen": "https://www.zillow.com/pr/2_p/",
+    "url": "https://www.zillow.com/homedetails/30-Calle-Solimar-Mayaguez-PR-00680/447314274_zpid/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "8022 Calle Nardo, Mayaguez, PR 00682",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "783"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "8022 Calle Nardo",
+      "addressLocality": "Mayaguez",
+      "addressRegion": "PR",
+      "postalCode": "00682"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.157814,
+      "longitude": -67.14847
+    },
+    "url_origen": "https://www.zillow.com/pr/2_p/",
+    "url": "https://www.zillow.com/homedetails/8022-Calle-Nardo-Mayaguez-PR-00682/449127598_zpid/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "297 Condo Chalets De La Plz, Vega Baja, PR 00693",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,153"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "297 Condo Chalets De La Plz",
+      "addressLocality": "Vega Baja",
+      "addressRegion": "PR",
+      "postalCode": "00693"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.487495,
+      "longitude": -66.41653
+    },
+    "url_origen": "https://www.zillow.com/pr/2_p/",
+    "url": "https://www.zillow.com/homedetails/297-Condo-Chalets-De-La-Plz-Vega-Baja-PR-00693/448833253_zpid/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "Km 1 Carr #HOME 9-111, Aguadilla, PR 00603",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,450"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "Km 1 Carr #HOME 9-111",
+      "addressLocality": "Aguadilla",
+      "addressRegion": "PR",
+      "postalCode": "00603"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.439445,
+      "longitude": -67.155815
+    },
+    "url_origen": "https://www.zillow.com/pr/2_p/",
+    "url": "https://www.zillow.com/homedetails/Km-1-Carr-HOME-9-111-Aguadilla-PR-00603/441745469_zpid/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "E7 Calle Jade, Humacao, PR 00791",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,687"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "E7 Calle Jade",
+      "addressLocality": "Humacao",
+      "addressRegion": "PR",
+      "postalCode": "00791"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.140797,
+      "longitude": -65.80085
+    },
+    "url_origen": "https://www.zillow.com/pr/2_p/",
+    "url": "https://www.zillow.com/homedetails/E7-Calle-Jade-Humacao-PR-00791/449379417_zpid/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "1 Avenue Sagrado Corazon #EST23, San Juan, PR 00915",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,200"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "1 Avenue Sagrado Corazon #EST23",
+      "addressLocality": "San Juan",
+      "addressRegion": "PR",
+      "postalCode": "00915"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.439257,
+      "longitude": -66.05876
+    },
+    "url_origen": "https://www.zillow.com/pr/2_p/",
+    "url": "https://www.zillow.com/homedetails/1-Avenue-Sagrado-Corazon-EST23-San-Juan-PR-00915/445983568_zpid/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "376 Calle Girasol, Vieques, PR 00765",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "793"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "376 Calle Girasol",
+      "addressLocality": "Vieques",
+      "addressRegion": "PR",
+      "postalCode": "00765"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.100306,
+      "longitude": -65.477776
+    },
+    "url_origen": "https://www.zillow.com/pr/2_p/",
+    "url": "https://www.zillow.com/homedetails/376-Calle-Girasol-Vieques-PR-00765/450054070_zpid/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "Bo Susua Alta Carr #368, Yauco, PR 00698",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "2,240"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "Bo Susua Alta Carr #368",
+      "addressLocality": "Yauco",
+      "addressRegion": "PR",
+      "postalCode": "00698"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.044855,
+      "longitude": -66.881584
+    },
+    "url": "https://www.zillow.com/homedetails/Bo-Susua-Alta-Carr-368-Yauco-PR-00698/449439401_zpid/",
+    "url_origen": "https://www.zillow.com/pr/3_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "(Undisclosed Address), Dorado, PR 00646",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "12,811"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "(undisclosed Address)",
+      "addressLocality": "Dorado",
+      "addressRegion": "PR",
+      "postalCode": "00646"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org"
+    },
+    "url": "https://www.zillow.com/homedetails/Dorado-PR-00646/402072592_zpid/",
+    "url_origen": "https://www.zillow.com/pr/3_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "Calle 3 Barrancas #183, Guayama, PR 00784",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,200"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "Calle 3 Barrancas #183",
+      "addressLocality": "Guayama",
+      "addressRegion": "PR",
+      "postalCode": "00784"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 17.947977,
+      "longitude": -66.128784
+    },
+    "url": "https://www.zillow.com/homedetails/Calle-3-Barrancas-183-Guayama-PR-00784/423795313_zpid/",
+    "url_origen": "https://www.zillow.com/pr/3_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "Carr 123 Barrio Caniaco, Utuado, PR 00641",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "649"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "Carr 123 Barrio Caniaco",
+      "addressLocality": "Utuado",
+      "addressRegion": "PR",
+      "postalCode": "00641"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.271023,
+      "longitude": -66.70244
+    },
+    "url": "https://www.zillow.com/homedetails/Carr-123-Barrio-Caniaco-Utuado-PR-00641/442790869_zpid/",
+    "url_origen": "https://www.zillow.com/pr/3_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "9-4g Seven Alturas De Monte Brisas, Fajardo, PR 00738",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,200"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "9-4G Seven Alturas De Monte Brisas",
+      "addressLocality": "Fajardo",
+      "addressRegion": "PR",
+      "postalCode": "00738"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.33521,
+      "longitude": -65.64316
+    },
+    "url": "https://www.zillow.com/homedetails/9-4G-Seven-Alturas-De-Monte-Brisas-Fajardo-PR-00738/446861090_zpid/",
+    "url_origen": "https://www.zillow.com/pr/3_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "Parcela 55 Comunidad Rural Margarita, Cabo Rojo, PR 00623",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "3,793"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "Parcela 55 Comunidad Rural Margarita",
+      "addressLocality": "Cabo Rojo",
+      "addressRegion": "PR",
+      "postalCode": "00623"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.087439,
+      "longitude": -67.11161
+    },
+    "url": "https://www.zillow.com/homedetails/Parcela-55-Comunidad-Rural-Margarita-Cabo-Rojo-PR-00623/449417541_zpid/",
+    "url_origen": "https://www.zillow.com/pr/3_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "1224 Calle Cardenas, San Juan, PR 00920",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "0"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "1224 Calle Cardenas",
+      "addressLocality": "San Juan",
+      "addressRegion": "PR",
+      "postalCode": "00920"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.40779,
+      "longitude": -66.08649
+    },
+    "url": "https://www.zillow.com/homedetails/1224-Calle-Cardenas-San-Juan-PR-00920/443833745_zpid/",
+    "url_origen": "https://www.zillow.com/pr/3_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "Lote C Sector La #50, Lajas, PR 00667",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "2,238"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "Lote C Sector La #50",
+      "addressLocality": "Lajas",
+      "addressRegion": "PR",
+      "postalCode": "00667"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.050919,
+      "longitude": -67.067986
+    },
+    "url": "https://www.zillow.com/homedetails/Lote-C-Sector-La-50-Lajas-PR-00667/450010365_zpid/",
+    "url_origen": "https://www.zillow.com/pr/3_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "Calle 6 Villas De Rio Grande #L18, Rio Grande, PR 00745",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "2,128"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "Calle 6 Villas De Rio Grande #L18",
+      "addressLocality": "Rio Grande",
+      "addressRegion": "PR",
+      "postalCode": "00745"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.37379,
+      "longitude": -65.84245
+    },
+    "url": "https://www.zillow.com/homedetails/Calle-6-Villas-De-Rio-Grande-L18-Rio-Grande-PR-00745/443190863_zpid/",
+    "url_origen": "https://www.zillow.com/pr/3_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "State Highway 770 Km #2.9, Barranquitas, PR 00794",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "2,500"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "State Highway 770 Km #2.9",
+      "addressLocality": "Barranquitas",
+      "addressRegion": "PR",
+      "postalCode": "00794"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.215801,
+      "longitude": -66.34549
+    },
+    "url": "https://www.zillow.com/homedetails/State-Highway-770-Km-2-9-Barranquitas-PR-00794/448802909_zpid/",
+    "url_origen": "https://www.zillow.com/pr/4_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "680 Avenue Victor Rd #301B, Arecibo, PR 00612",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,000"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "680 Avenue Victor Rd #301B",
+      "addressLocality": "Arecibo",
+      "addressRegion": "PR",
+      "postalCode": "00612"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.474442,
+      "longitude": -66.72017
+    },
+    "url": "https://www.zillow.com/homedetails/680-Avenue-Victor-Rd-301B-Arecibo-PR-00612/448887548_zpid/",
+    "url_origen": "https://www.zillow.com/pr/4_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "32 El Vigaa, Ponce, PR 00730",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "2,800"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "32 El Vigaa",
+      "addressLocality": "Ponce",
+      "addressRegion": "PR",
+      "postalCode": "00730"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.021372,
+      "longitude": -66.61776
+    },
+    "url": "https://www.zillow.com/homedetails/32-El-Vigaa-Ponce-PR-00730/447313537_zpid/",
+    "url_origen": "https://www.zillow.com/pr/4_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "95 Comunidad Ojo De Agua Calle Hermanos Ortiz, Vega Baja, PR 00693",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,303"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "95 Comunidad Ojo De Agua Calle Hermanos Ortiz",
+      "addressLocality": "Vega Baja",
+      "addressRegion": "PR",
+      "postalCode": "00693"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.448463,
+      "longitude": -66.39966
+    },
+    "url": "https://www.zillow.com/homedetails/95-Comunidad-Ojo-De-Agua-Calle-Hermanos-Ortiz-Vega-Baja-PR-00693/447727617_zpid/",
+    "url_origen": "https://www.zillow.com/pr/4_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "2.2 Highway 985, Fajardo, PR 00738",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,958"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "2.2 Highway 985",
+      "addressLocality": "Fajardo",
+      "addressRegion": "PR",
+      "postalCode": "00738"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.327692,
+      "longitude": -65.64515
+    },
+    "url": "https://www.zillow.com/homedetails/2-2-Highway-985-Fajardo-PR-00738/345323780_zpid/",
+    "url_origen": "https://www.zillow.com/pr/4_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "85 Cielo Esmeralda, Vega Alta, PR 00692",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "2,246"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "85 Cielo Esmeralda",
+      "addressLocality": "Vega Alta",
+      "addressRegion": "PR",
+      "postalCode": "00692"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.46953,
+      "longitude": -66.33278
+    },
+    "url": "https://www.zillow.com/homedetails/85-Cielo-Esmeralda-Vega-Alta-PR-00692/2060610886_zpid/",
+    "url_origen": "https://www.zillow.com/pr/4_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "0 Vega Baja Urbanizacion #EL, Vega Baja, PR 00693",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,350"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "0 Vega Baja Urbanizacion #EL",
+      "addressLocality": "Vega Baja",
+      "addressRegion": "PR",
+      "postalCode": "00693"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.452318,
+      "longitude": -66.40714
+    },
+    "url": "https://www.zillow.com/homedetails/0-Vega-Baja-Urbanizacion-EL-Vega-Baja-PR-00693/447286427_zpid/",
+    "url_origen": "https://www.zillow.com/pr/4_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "Carr 552 Bo Guayabal, Juana Diaz, PR 00795",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "680"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "Carr 552 Bo Guayabal",
+      "addressLocality": "Juana Diaz",
+      "addressRegion": "PR",
+      "postalCode": "00795"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.070389,
+      "longitude": -66.4951
+    },
+    "url": "https://www.zillow.com/homedetails/Carr-552-Bo-Guayabal-Juana-Diaz-PR-00795/448294472_zpid/",
+    "url_origen": "https://www.zillow.com/pr/4_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "15 Saint Dl #6, Cabo Rojo, PR 00623",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,200"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "15 Saint Dl #6",
+      "addressLocality": "Cabo Rojo",
+      "addressRegion": "PR",
+      "postalCode": "00623"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.02136,
+      "longitude": -67.14108
+    },
+    "url": "https://www.zillow.com/homedetails/15-Saint-Dl-6-Cabo-Rojo-PR-00623/446749753_zpid/",
+    "url_origen": "https://www.zillow.com/pr/4_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "1700 Calle San Jorge #2, San Juan, PR 00911",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,053"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "1700 Calle San Jorge #2",
+      "addressLocality": "San Juan",
+      "addressRegion": "PR",
+      "postalCode": "00911"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.449375,
+      "longitude": -66.06216
+    },
+    "url": "https://www.zillow.com/homedetails/1700-Calle-San-Jorge-2-San-Juan-PR-00911/2076771473_zpid/",
+    "url_origen": "https://www.zillow.com/pr/5_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "276 Dorado Bch E, Dorado, PR 00646",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "10,351"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "276 Dorado Bch E",
+      "addressLocality": "Dorado",
+      "addressRegion": "PR",
+      "postalCode": "00646"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.462868,
+      "longitude": -66.29407
+    },
+    "url": "https://www.zillow.com/homedetails/276-Dorado-Bch-E-Dorado-PR-00646/443787545_zpid/",
+    "url_origen": "https://www.zillow.com/pr/5_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "50 The Isles At Dorado Bch, Dorado, PR 00646",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "3,100"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "50 The Isles At Dorado Bch",
+      "addressLocality": "Dorado",
+      "addressRegion": "PR",
+      "postalCode": "00646"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.466887,
+      "longitude": -66.28444
+    },
+    "url": "https://www.zillow.com/homedetails/50-The-Isles-At-Dorado-Bch-Dorado-PR-00646/2053600859_zpid/",
+    "url_origen": "https://www.zillow.com/pr/5_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "9 Calle Narciso Varona Sq, San Lorenzo, PR 00754",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,936"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "9 Calle Narciso Varona Sq",
+      "addressLocality": "San Lorenzo",
+      "addressRegion": "PR",
+      "postalCode": "00754"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.190369,
+      "longitude": -65.9599
+    },
+    "url": "https://www.zillow.com/homedetails/9-Calle-Narciso-Varona-Sq-San-Lorenzo-PR-00754/441126481_zpid/",
+    "url_origen": "https://www.zillow.com/pr/5_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "165 Calle Ky, Vega Baja, PR 00693",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,866"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "165 Calle Ky",
+      "addressLocality": "Vega Baja",
+      "addressRegion": "PR",
+      "postalCode": "00693"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.43324,
+      "longitude": -66.426094
+    },
+    "url": "https://www.zillow.com/homedetails/165-Calle-Ky-Vega-Baja-PR-00693/444370618_zpid/",
+    "url_origen": "https://www.zillow.com/pr/5_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "F 73rd St, Naguabo, PR 00718",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,356"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "F 73rd St",
+      "addressLocality": "Naguabo",
+      "addressRegion": "PR",
+      "postalCode": "00718"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.188768,
+      "longitude": -65.72678
+    },
+    "url": "https://www.zillow.com/homedetails/F-73rd-St-Naguabo-PR-00718/446651549_zpid/",
+    "url_origen": "https://www.zillow.com/pr/5_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "Carr 844 Camino La Iglesia, San Juan, PR 00926",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "928"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "Carr 844 Camino La Iglesia",
+      "addressLocality": "San Juan",
+      "addressRegion": "PR",
+      "postalCode": "00926"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.350155,
+      "longitude": -66.04305
+    },
+    "url": "https://www.zillow.com/homedetails/Carr-844-Camino-La-Iglesia-San-Juan-PR-00926/449043378_zpid/",
+    "url_origen": "https://www.zillow.com/pr/5_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "1 Carr Km 4 H4 Int Rte #411-7, Rincon, PR 00677",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,000"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "1 Carr Km 4 H4 Int Rte #411-7",
+      "addressLocality": "Rincon",
+      "addressRegion": "PR",
+      "postalCode": "00677"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.31127,
+      "longitude": -67.190865
+    },
+    "url": "https://www.zillow.com/homedetails/1-Carr-Km-4-H4-Int-Rte-411-7-Rincon-PR-00677/2058419316_zpid/",
+    "url_origen": "https://www.zillow.com/pr/5_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "A11 Calle Marfil, Hatillo, PR 00659",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "2,897"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "A11 Calle Marfil",
+      "addressLocality": "Hatillo",
+      "addressRegion": "PR",
+      "postalCode": "00659"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.486101,
+      "longitude": -66.7707
+    },
+    "url": "https://www.zillow.com/homedetails/A11-Calle-Marfil-Hatillo-PR-00659/447737069_zpid/",
+    "url_origen": "https://www.zillow.com/pr/5_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "D 1 Calle Vista Mar, Hatillo, PR 00659",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,000"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "D 1 Calle Vista Mar",
+      "addressLocality": "Hatillo",
+      "addressRegion": "PR",
+      "postalCode": "00659"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.477295,
+      "longitude": -66.828316
+    },
+    "url": "https://www.zillow.com/homedetails/D-1-Calle-Vista-Mar-Hatillo-PR-00659/442679363_zpid/",
+    "url_origen": "https://www.zillow.com/pr/6_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "7442 Agustin Ramos Ave #B, Isabela, PR 00662",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "500"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "7442 Agustin Ramos Ave #B",
+      "addressLocality": "Isabela",
+      "addressRegion": "PR",
+      "postalCode": "00662"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.472664,
+      "longitude": -67.03162
+    },
+    "url": "https://www.zillow.com/homedetails/7442-Agustin-Ramos-Ave-B-Isabela-PR-00662/411382397_zpid/",
+    "url_origen": "https://www.zillow.com/pr/6_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "726 Calle William, Toa Baja, PR 00949",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,200"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "726 Calle William",
+      "addressLocality": "Toa Baja",
+      "addressRegion": "PR",
+      "postalCode": "00949"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.432028,
+      "longitude": -66.05027
+    },
+    "url": "https://www.zillow.com/homedetails/726-Calle-William-Toa-Baja-PR-00949/441801943_zpid/",
+    "url_origen": "https://www.zillow.com/pr/6_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "6400 Isla Verde Ave #5B, Carolina, PR 00979",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,400"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "6400 Isla Verde Ave #5B",
+      "addressLocality": "Carolina",
+      "addressRegion": "PR",
+      "postalCode": "00979"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.441904,
+      "longitude": -66.01853
+    },
+    "url": "https://www.zillow.com/homedetails/6400-Isla-Verde-Ave-5B-Carolina-PR-00979/449937471_zpid/",
+    "url_origen": "https://www.zillow.com/pr/6_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "Km .35 Carr #995-LOT 6, Luquillo, PR 00773",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "4,278"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "Km .35 Carr #995-LOT 6",
+      "addressLocality": "Luquillo",
+      "addressRegion": "PR",
+      "postalCode": "00773"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.362291,
+      "longitude": -65.76258
+    },
+    "url": "https://www.zillow.com/homedetails/Km-35-Carr-995-LOT-6-Luquillo-PR-00773/446044109_zpid/",
+    "url_origen": "https://www.zillow.com/pr/6_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "5890 Tartak #7, Carolina, PR 00979",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,004"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "5890 Tartak #7",
+      "addressLocality": "Carolina",
+      "addressRegion": "PR",
+      "postalCode": "00979"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.441086,
+      "longitude": -66.021416
+    },
+    "url": "https://www.zillow.com/homedetails/5890-Tartak-7-Carolina-PR-00979/2064216577_zpid/",
+    "url_origen": "https://www.zillow.com/pr/6_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "C 9 Villa De La Pradera #22, Rincon, PR 00677",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,350"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "C 9 Villa De La Pradera #22",
+      "addressLocality": "Rincon",
+      "addressRegion": "PR",
+      "postalCode": "00677"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.326338,
+      "longitude": -67.24366
+    },
+    "url": "https://www.zillow.com/homedetails/C-9-Villa-De-La-Pradera-22-Rincon-PR-00677/449401792_zpid/",
+    "url_origen": "https://www.zillow.com/pr/6_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "State Highway 566 Int Coli Sector Saltos Ward Rd #KM40, Orocovis, PR 00720",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "2,897"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "State Highway 566 Int Coli Sector Saltos Ward Rd #KM40",
+      "addressLocality": "Orocovis",
+      "addressRegion": "PR",
+      "postalCode": "00720"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.1045,
+      "longitude": -66.40891
+    },
+    "url": "https://www.zillow.com/homedetails/State-Highway-566-Int-Coli-Sector-Saltos-Ward-Rd-KM40-Orocovis-PR-00720/448705934_zpid/",
+    "url_origen": "https://www.zillow.com/pr/6_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "5 Calle Carlota, Guayama, PR 00784",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "6,120"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "5 Calle Carlota",
+      "addressLocality": "Guayama",
+      "addressRegion": "PR",
+      "postalCode": "00784"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 17.97745,
+      "longitude": -66.107
+    },
+    "url": "https://www.zillow.com/homedetails/5-Calle-Carlota-Guayama-PR-00784/443123990_zpid/",
+    "url_origen": "https://www.zillow.com/pr/6_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "Mallorca Mallorca #713, San Juan, PR 00907",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,907"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "Mallorca Mallorca #713",
+      "addressLocality": "San Juan",
+      "addressRegion": "PR",
+      "postalCode": "00907"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.45194,
+      "longitude": -66.08548
+    },
+    "url": "https://www.zillow.com/homedetails/Mallorca-Mallorca-713-San-Juan-PR-00907/450105526_zpid/",
+    "url_origen": "https://www.zillow.com/pr/7_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "(Undisclosed Address), Caguas, PR 00725",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "3,525"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "(undisclosed Address)",
+      "addressLocality": "Caguas",
+      "addressRegion": "PR",
+      "postalCode": "00725"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org"
+    },
+    "url": "https://www.zillow.com/homedetails/Caguas-PR-00725/448215581_zpid/",
+    "url_origen": "https://www.zillow.com/pr/7_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "I Boulevard Rio I #DEL-312, Guaynabo, PR 00971",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,200"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "I Boulevard Rio I #DEL-312",
+      "addressLocality": "Guaynabo",
+      "addressRegion": "PR",
+      "postalCode": "00971"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.376976,
+      "longitude": -66.13377
+    },
+    "url": "https://www.zillow.com/homedetails/I-Boulevard-Rio-I-DEL-312-Guaynabo-PR-00971/448944975_zpid/",
+    "url_origen": "https://www.zillow.com/pr/7_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "200 Avenue A #2004, Fajardo, PR 00738",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "652"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "200 Avenue A #2004",
+      "addressLocality": "Fajardo",
+      "addressRegion": "PR",
+      "postalCode": "00738"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.342949,
+      "longitude": -65.63421
+    },
+    "url": "https://www.zillow.com/homedetails/200-Avenue-A-2004-Fajardo-PR-00738/448303481_zpid/",
+    "url_origen": "https://www.zillow.com/pr/7_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "Km 19.2 Int Carr 115 Bo Rio Grande, Aguada, PR 00602",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,295"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "Km 19.2 Int Carr 115 Bo Rio Grande",
+      "addressLocality": "Aguada",
+      "addressRegion": "PR",
+      "postalCode": "00602"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.363,
+      "longitude": -67.2252
+    },
+    "url": "https://www.zillow.com/homedetails/Km-19-2-Int-Carr-115-Bo-Rio-Grande-Aguada-PR-00602/449921303_zpid/",
+    "url_origen": "https://www.zillow.com/pr/7_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "Pp5 600 Urbanizacion Villas De Castro, Caguas, PR 00725",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,800"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "Pp5 600 Urbanizacion Villas De Castro",
+      "addressLocality": "Caguas",
+      "addressRegion": "PR",
+      "postalCode": "00725"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.213903,
+      "longitude": -66.010414
+    },
+    "url": "https://www.zillow.com/homedetails/Pp5-600-Urbanizacion-Villas-De-Castro-Caguas-PR-00725/448461841_zpid/",
+    "url_origen": "https://www.zillow.com/pr/7_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "Calle 6 Gg #10, Cabo Rojo, PR 00623",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,700"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "Calle 6 Gg #10",
+      "addressLocality": "Cabo Rojo",
+      "addressRegion": "PR",
+      "postalCode": "00623"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.020975,
+      "longitude": -67.14301
+    },
+    "url": "https://www.zillow.com/homedetails/Calle-6-Gg-10-Cabo-Rojo-PR-00623/442148379_zpid/",
+    "url_origen": "https://www.zillow.com/pr/7_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "1 Camino Los Andinos #721, San Juan, PR 00926",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,200"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "1 Camino Los Andinos #721",
+      "addressLocality": "San Juan",
+      "addressRegion": "PR",
+      "postalCode": "00926"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.366632,
+      "longitude": -66.04818
+    },
+    "url": "https://www.zillow.com/homedetails/1-Camino-Los-Andinos-721-San-Juan-PR-00926/446850962_zpid/",
+    "url_origen": "https://www.zillow.com/pr/7_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "1 Calle Trinitaria, Rincon, PR 00677",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "0"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "1 Calle Trinitaria",
+      "addressLocality": "Rincon",
+      "addressRegion": "PR",
+      "postalCode": "00677"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.367514,
+      "longitude": -67.26364
+    },
+    "url": "https://www.zillow.com/homedetails/1-Calle-Trinitaria-Rincon-PR-00677/441592280_zpid/",
+    "url_origen": "https://www.zillow.com/pr/7_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "Villas Del Mar Mediana Alta #A201, Loiza, PR 00772",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "0"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "Villas Del Mar Mediana Alta #A201",
+      "addressLocality": "Loiza",
+      "addressRegion": "PR",
+      "postalCode": "00772"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.430773,
+      "longitude": -65.84583
+    },
+    "url": "https://www.zillow.com/homedetails/Villas-Del-Mar-Mediana-Alta-A201-Loiza-PR-00772/449961907_zpid/",
+    "url_origen": "https://www.zillow.com/pr/8_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "State Highway 770 Km #2.9, Barranquitas, PR 00794",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "2,500"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "State Highway 770 Km #2.9",
+      "addressLocality": "Barranquitas",
+      "addressRegion": "PR",
+      "postalCode": "00794"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.215801,
+      "longitude": -66.34549
+    },
+    "url": "https://www.zillow.com/homedetails/State-Highway-770-Km-2-9-Barranquitas-PR-00794/448802909_zpid/",
+    "url_origen": "https://www.zillow.com/pr/8_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "143 Luis Muaoz Rivera #143, Cabo Rojo, PR 00623",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "5,463"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "143 Luis Muaoz Rivera #143",
+      "addressLocality": "Cabo Rojo",
+      "addressRegion": "PR",
+      "postalCode": "00623"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.082182,
+      "longitude": -67.1454
+    },
+    "url": "https://www.zillow.com/homedetails/143-Luis-Muaoz-Rivera-143-Cabo-Rojo-PR-00623/440202570_zpid/",
+    "url_origen": "https://www.zillow.com/pr/8_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "413 Calle Miramar, Rincon, PR 00677",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,140"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "413 Calle Miramar",
+      "addressLocality": "Rincon",
+      "addressRegion": "PR",
+      "postalCode": "00677"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.36218,
+      "longitude": -67.25089
+    },
+    "url": "https://www.zillow.com/homedetails/413-Calle-Miramar-Rincon-PR-00677/2102147703_zpid/",
+    "url_origen": "https://www.zillow.com/pr/8_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "Calle Modesto Cond Bello Horizonte #1607, San Juan, PR 00924",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "607"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "Calle Modesto Cond Bello Horizonte #1607",
+      "addressLocality": "San Juan",
+      "addressRegion": "PR",
+      "postalCode": "00924"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.394356,
+      "longitude": -66.00306
+    },
+    "url": "https://www.zillow.com/homedetails/Calle-Modesto-Cond-Bello-Horizonte-1607-San-Juan-PR-00924/443350397_zpid/",
+    "url_origen": "https://www.zillow.com/pr/8_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "1265 Calle Andes, San Juan, PR 00926",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "6,752"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "1265 Calle Andes",
+      "addressLocality": "San Juan",
+      "addressRegion": "PR",
+      "postalCode": "00926"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.391186,
+      "longitude": -66.04885
+    },
+    "url": "https://www.zillow.com/homedetails/1265-Calle-Andes-San-Juan-PR-00926/2087717571_zpid/",
+    "url_origen": "https://www.zillow.com/pr/8_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "H Malibu Beach Calle Santillana Del Mar #106, Loiza, PR 00772",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,115"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "H Malibu Beach Calle Santillana Del Mar #106",
+      "addressLocality": "Loiza",
+      "addressRegion": "PR",
+      "postalCode": "00772"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.433893,
+      "longitude": -65.855934
+    },
+    "url": "https://www.zillow.com/homedetails/H-Malibu-Beach-Calle-Santillana-Del-Mar-106-Loiza-PR-00772/442792265_zpid/",
+    "url_origen": "https://www.zillow.com/pr/8_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "Avenue 400 Fajardo Prairie 3 #A-15, Fajardo, PR 00738",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "1,575"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "Avenue 400 Fajardo Prairie 3 #A-15",
+      "addressLocality": "Fajardo",
+      "addressRegion": "PR",
+      "postalCode": "00738"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.33789,
+      "longitude": -65.636314
+    },
+    "url": "https://www.zillow.com/homedetails/Avenue-400-Fajardo-Prairie-3-A-15-Fajardo-PR-00738/439899986_zpid/",
+    "url_origen": "https://www.zillow.com/pr/8_p/"
+  },
+  {
+    "@type": "SingleFamilyResidence",
+    "@context": "http://schema.org",
+    "name": "Barrio Puntas Sector Martillo, Rincon, PR 00677",
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "@context": "http://schema.org",
+      "value": "5,000"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@context": "http://schema.org",
+      "streetAddress": "Barrio Puntas Sector Martillo",
+      "addressLocality": "Rincon",
+      "addressRegion": "PR",
+      "postalCode": "00677"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "@context": "http://schema.org",
+      "latitude": 18.370064,
+      "longitude": -67.25944
+    },
+    "url": "https://www.zillow.com/homedetails/Barrio-Puntas-Sector-Martillo-Rincon-PR-00677/443466022_zpid/",
+    "url_origen": "https://www.zillow.com/pr/8_p/"
+  }
+]
