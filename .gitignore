@@ -19,6 +19,7 @@ venv.bak/
 *.log
 
 *.swp
+*.swp
 *.swo
 *~
 

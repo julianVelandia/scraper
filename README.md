@@ -12,7 +12,10 @@ El scraper debe poder pausarse y retomarse sin pérdida de progreso.
 
 ## Demo
 
-
+<video width="600" controls>
+  <source src="assets/demo.mp4" type="video/mp4">
+  Tu navegador no soporta video HTML5.
+</video>
 
 ---
 
@@ -54,7 +57,7 @@ zillow_scraper/
 Se intentó obtener los datos accediendo directamente a endpoints internos. En ocasiones funcionaba, pero era inconsistente y fallaba al cargar completamente. Esto sugiere que Zillow utiliza **server-side rendering con protección anti-bot**, impidiendo acceder a los datos completos mediante `requests`
 
 ### 2. **Segundo intento: interceptar respuestas del frontend**
-Se intentó identificar las llamadas AJAX del sitio usando herramientas como las DevTools. Sin embargo, las URLs no eran públicas o estaban firmadas temporalmente, por lo que tampoco fue viable
+Se intentó identificar las llamadas AJAX del sitio usando herramientas como las DevTools. Sin embargo, las URLs no eran públicas o estaban firmadas temporalmente, por lo que tampoco fue viable, solo estaban las de google ads
 
 ![image](https://github.com/user-attachments/assets/41bd65af-871c-4285-82da-0f97b67fda3e)
 
